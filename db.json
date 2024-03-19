@@ -41,6 +41,42 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "plant",
+      "image": "https://hips.hearstapps.com/clv.h-cdn.co/assets/17/07/480x480/1487288467-square-1487199257-index-houseplants-2.jpg?resize=1200:*",
+      "price": 7,
+      "id": 8
+    },
+    {
+      "name": "plantttt",
+      "image": "https://hips.hearstapps.com/clv.h-cdn.co/assets/17/07/480x480/1487288467-square-1487199257-index-houseplants-2.jpg?resize=1200:*",
+      "price": "6",
+      "id": 9
+    },
+    {
+      "name": "planty",
+      "image": "https://hips.hearstapps.com/clv.h-cdn.co/assets/17/07/480x480/1487288467-square-1487199257-index-houseplants-2.jpg?resize=1200:*",
+      "price": "333",
+      "id": 10
+    },
+    {
+      "name": "asdfghj",
+      "image": "https://hips.hearstapps.com/clv.h-cdn.co/assets/17/07/480x480/1487288467-square-1487199257-index-houseplants-2.jpg?resize=1200:*",
+      "price": "88",
+      "id": 11
+    },
+    {
+      "name": "wqertyu",
+      "image": "https://hips.hearstapps.com/clv.h-cdn.co/assets/17/07/480x480/1487288467-square-1487199257-index-houseplants-2.jpg?resize=1200:*",
+      "price": "99",
+      "id": 12
+    },
+    {
+      "name": "bhgiibnjik",
+      "image": "https://hips.hearstapps.com/clv.h-cdn.co/assets/17/07/480x480/1487288467-square-1487199257-index-houseplants-2.jpg?resize=1200:*",
+      "price": "777",
+      "id": 13
     }
   ]
 }
