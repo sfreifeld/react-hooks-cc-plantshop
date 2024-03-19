@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Aloe",
       "image": "./images/aloe.jpg",
-      "price": 15.99
+      "price": "56"
     },
     {
       "id": 2,
@@ -59,24 +59,6 @@
       "image": "https://hips.hearstapps.com/clv.h-cdn.co/assets/17/07/480x480/1487288467-square-1487199257-index-houseplants-2.jpg?resize=1200:*",
       "price": "333",
       "id": 10
-    },
-    {
-      "name": "asdfghj",
-      "image": "https://hips.hearstapps.com/clv.h-cdn.co/assets/17/07/480x480/1487288467-square-1487199257-index-houseplants-2.jpg?resize=1200:*",
-      "price": "88",
-      "id": 11
-    },
-    {
-      "name": "wqertyu",
-      "image": "https://hips.hearstapps.com/clv.h-cdn.co/assets/17/07/480x480/1487288467-square-1487199257-index-houseplants-2.jpg?resize=1200:*",
-      "price": "99",
-      "id": 12
-    },
-    {
-      "name": "bhgiibnjik",
-      "image": "https://hips.hearstapps.com/clv.h-cdn.co/assets/17/07/480x480/1487288467-square-1487199257-index-houseplants-2.jpg?resize=1200:*",
-      "price": "777",
-      "id": 13
     }
   ]
 }

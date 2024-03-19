@@ -57,6 +57,10 @@ main {
   background-color: rgba(181, 250, 181, 0.5);
 }
 
+.delete {
+  background-color: rgb(249, 164, 164);
+}
+
 .new-plant-form form {
   display: flex;
   justify-content: center;

@@ -24,7 +24,7 @@ function NewPlantForm({addPlant}) {
   // creates a new plant object and posts it to the db
   function handleSubmit(event) {
     event.preventDefault();
-    const newPlant = { name: plantName, image: plantImg, price: plantPrice };
+    const newPlant = { name: plantName, image: plantImg, price: plantPrice }
 
     fetch('http://localhost:6001/plants', {
       method: 'POST',
@@ -39,9 +39,9 @@ function NewPlantForm({addPlant}) {
     })
 
     // Reset form fields
-    setPlantName("");
-    setPlantImg("");
-    setPlantPrice("");
+    setPlantName("")
+    setPlantImg("")
+    setPlantPrice("")
   }
 
   return (
